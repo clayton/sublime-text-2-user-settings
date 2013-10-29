@@ -45,8 +45,8 @@
     "script",
     "tmp"
   ],
-  "font_face": "Inconsolata-dz",
-  "font_size": 22,
+  "font_face": "DejaVu Sans Mono",
+  "font_size": 18,
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
@@ -65,7 +65,6 @@
   ],
   "save_on_focus_lost": true,
   "tab_size": 2,
-  "theme": "Soda Light.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true
 }
